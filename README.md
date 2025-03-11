@@ -17,6 +17,10 @@ This project processes raw transaction data from a CSV file, fixes errors, and o
 git clone https://github.com/your-username/data-transformation-python.git
 ```
 2. Install dependencies:
+   ```bash
    pip install pandas
-3. Run the script:
+   ```
+4. Run the script:
+   ```bash
    python transform_data.py
+   ```
